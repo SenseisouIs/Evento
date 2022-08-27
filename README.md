@@ -15,7 +15,7 @@ Esta previsto que salga para mas plataformas, por ahora solo se puede jugar medi
 Si, se planea añadir varios eventos especiales, aparte de los que ya existen.
 
 ### ¿Habrá alguna recompensa para los donadores de Galaxy Life Reborn?
-Lamentablemente no, no habra ninguna ya que resulta imposible seguir el rastro de quién ha enviado las donaciones para recompensar a cada usuario. Aunque todo aquel que juegue a la versión beta y poco después del lanzamiento oficial recibirá una recompensa en forma de Cubo Misterioso.
+Lamentablemente no, no habra ninguna ya que resulta imposible seguir el rastro de quién ha enviado las donaciones para recompensar a cada usuario. Aunque todo aquel que juegue a la versión beta y después en el lanzamiento oficial recibirá una recompensa en forma de Cubo Misterioso.
 
 ### ¿Habra cambios de balance en el juego?
 Se planea hacer cambios para mejorar la jugabilidad, pero no se trabajaria en eso hasta que se arreglen los errores.
