@@ -30,7 +30,7 @@ Se planea añadir montones de cosas nuevas, desde NPCs nuevos, misiones nuevas, 
 Se tiene pensado añadir logros mediante Steam en el futuro, esto para dar mas visibilidad al juego.
 
 
-#### [Discord del juego](https://discord.gg/BnjYyuG7Hn)
-#### [Instagram](https://instagram.com/phoenixnetwork) 
-#### [Steam](https://store.steampowered.com/app/1927780/Galaxy_Life/)
-#### [Youtube](https://youtube.com/c/PhoenixNetwork)
+##### [Discord del juego](https://discord.gg/BnjYyuG7Hn)
+##### [Instagram](https://instagram.com/phoenixnetwork) 
+##### [Steam](https://store.steampowered.com/app/1927780/Galaxy_Life/)
+##### [Youtube](https://youtube.com/c/PhoenixNetwork)
